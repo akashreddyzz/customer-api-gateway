@@ -1,0 +1,9 @@
+{
+  "gatewayVersion": "2.1",
+  "legacySupport": true,
+  "deprecatedApis": [
+    "/api/v1/customers",
+    "/api/v1/payments"
+  ],
+  "migrationWindow": "Q4 2026"
+}
